@@ -1,2 +1,2 @@
 # DarkOptionsBackground
- Removed Dirt texture from minecraft options background. 
+ Removes Dirt texture from minecraft options background. 
