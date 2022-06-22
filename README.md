@@ -1,7 +1,7 @@
-![pack](https://user-images.githubusercontent.com/106192630/174915738-2c0f31d2-455e-4113-8ee8-4b4cb04d2401.png)
 # DarkOptionsBackground
  Removes Dirt texture from minecraft options background. 
  
-![2022-06-22_01 38 07](https://user-images.githubusercontent.com/106192630/174913800-5523fea0-0393-410e-9f92-a136a5beb14c.png)
-![2022-06-22_01 38 45](https://user-images.githubusercontent.com/106192630/174913840-2f9ed148-7eee-45bc-8ae8-768918c9fadd.png)
-![2022-06-22_01 54 20](https://user-images.githubusercontent.com/106192630/174915265-d791a1fb-51d3-454a-953f-cf7b2ca26423.png)
+
+![2022-06-22_02 08 44](https://user-images.githubusercontent.com/106192630/174916442-81c25f0d-8366-410d-b9a2-4e50711c57f5.png)
+![2022-06-22_01 38 45](https://user-images.githubusercontent.com/106192630/174916450-5de14f32-f610-436c-a238-fa0bc1d74be2.png)
+![2022-06-22_01 38 07](https://user-images.githubusercontent.com/106192630/174916453-06cae980-7c39-43ec-96dd-b184f191f815.png)
