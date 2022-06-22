@@ -1,3 +1,4 @@
+![pack](https://user-images.githubusercontent.com/106192630/174915738-2c0f31d2-455e-4113-8ee8-4b4cb04d2401.png)
 # DarkOptionsBackground
  Removes Dirt texture from minecraft options background. 
  
